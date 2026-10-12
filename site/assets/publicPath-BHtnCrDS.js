@@ -1,0 +1,1 @@
+function e(e){let t=`/cryptography-atlas`;return!e.startsWith(`/`)||e.startsWith(`//`)||e===t||e.startsWith(`${t}/`)?e:`${t}${e}`}export{e as t};
